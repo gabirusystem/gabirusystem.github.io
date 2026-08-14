@@ -117356,7 +117356,7 @@ $1(a){return a.gnd()},
 $S:73}
 A.qn.prototype={
 E(a){var s=this.c
-return A.us(A.bC(s*0.16),A.bad("assets/brand_logo.png",new A.afw(this),B.j3,s,s),B.bk)}}
+return A.us(A.bC(s*0.22),A.bad("assets/brand_logo.png",new A.afw(this),B.j3,s,s),B.bk)}}
 A.afw.prototype={
 $3(a,b,c){var s=t.p,r=A.b([A.db(B.t_,null,null,this.a.c*0.72)],s)
 B.m.M(r,A.b([B.cf,B.beJ],s))
