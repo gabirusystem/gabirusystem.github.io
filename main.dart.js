@@ -126673,7 +126673,7 @@ i=i==null?p:J.o(i)
 i=(i==null?"":i).length===0?"":A.m(l.h(a,o))+" \xb7 "
 s=l.h(a,n)
 r=$.cp()
-return A.e_(!1,B.av,p,p,!0,p,p,p,!0,!0,k,p,p,p,p,p,!1,p,p,p,p,p,A.z(B.i.bf(A.b([i+"Custo unit\xe1rio: "+r.ap(A.y(s)),"Venda unit\xe1ria: "+r.ap(A.y(l.h(a,m))),"Subtotal: custo "+r.ap(A.y(A.y(l.h(a,q))*A.y(l.h(a,n))))+" \xb7 venda "+r.ap(A.y(A.y(l.h(a,q))*A.y(l.h(a,m))))],t.s),"\n"),p,p,p,p,p,p,p,p),p,j,p,p,p)},
+return A.e_(!1,B.av,p,p,!0,p,p,p,!0,!0,k,p,p,p,p,p,!1,p,p,p,p,p,A.z(B.i.bf(A.b([i+"Custo unit\xe1rio: "+r.ap(A.y(s)),"Venda unit\xe1ria: "+r.ap(A.y(l.h(a,m))),"Lucro estimado: "+r.ap(A.y(A.y(l.h(a,q))*(A.y(l.h(a,m))-A.y(l.h(a,n)))))],t.s),"\n"),p,p,p,p,p,p,p,p),p,j,p,p,p)},
 $S:99}
 A.b2o.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k=null,j=this.a,i=b.b,h=i<600,g=h?16:24
